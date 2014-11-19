@@ -1,6 +1,6 @@
 {
-  "name": "bigbox-handlebars-serverside",
-  "version": "0.0.1",
+  "name": "bigbox-handlebars",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
     "htmlparser": "*",
@@ -9,6 +9,6 @@
   "description": "bigbox在server端的handlebars模板处理程序",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigboxjs/bigbox-handlebars-serverside"
+    "url": "https://github.com/bigboxjs/bigbox-handlebars"
   }
 }
